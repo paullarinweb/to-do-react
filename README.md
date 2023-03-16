@@ -5,4 +5,4 @@
 
 <br/>
 
-<a href="https://react-to-do-app-paullarin.netlify.app/" >`View on Live Version`</a>
+<a target="_blank" href="https://react-to-do-app-paullarin.netlify.app/" >`View on Live Version`</a>
